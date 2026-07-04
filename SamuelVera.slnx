@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ApiGateway/ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Users/">
+    <Project Path="src/Services/Users/Users.API/Users.API.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/WorkItems/">
+    <Project Path="src/Services/WorkItems/WorkItems.API/WorkItems.API.csproj" />
+  </Folder>
+</Solution>
